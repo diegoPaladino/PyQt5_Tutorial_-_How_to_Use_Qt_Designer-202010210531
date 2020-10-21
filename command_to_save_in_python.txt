@@ -1,0 +1,1 @@
+yuic5 -x PyQt5_test_1.ui -o PyQt5_test_1.py
